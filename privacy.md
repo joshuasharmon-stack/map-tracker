@@ -1,8 +1,8 @@
-# Map Tracker — Privacy Policy
+# Statemark — Privacy Policy
 
-_Last updated: 25 October 2026_
+_Last updated: 26 October 2026_
 
-Map Tracker is an iPhone app for tracking the US states and cities you've been to, and anything else you want to track state by state. The short version: **your data stays on your devices and in your own iCloud account. We don't have servers, we don't collect anything, and we don't sell or share anything.**
+Statemark is an iPhone app for tracking the US states and cities you've been to, and anything else you want to track state by state. The short version: **your data stays on your devices and in your own iCloud account. We don't have servers, we don't collect anything, and we don't sell or share anything.**
 
 ## What the app stores
 
@@ -23,7 +23,7 @@ When you search for or save a city, or import places from your photos, the city 
 
 ## Location
 
-Location is used only if you turn on **Alert When I Arrive** (Map Tracker Pro). The app then uses Apple's low-power location monitoring to notice when you're in a new state, even when the app is closed if you allow "Always", and asks before marking it. It keeps a simple log of which state you were in on which days, for the Days in Each State report, and checks off national parks and counties if you have those packs. Your location is processed on your iPhone and never sent to us. Turn it off any time in the app's settings or in iOS Settings.
+Location is used only if you turn on **Alert When I Arrive** (Statemark Pro). The app then uses Apple's low-power location monitoring to notice when you're in a new state, even when the app is closed if you allow "Always", and asks before marking it. It keeps a simple log of which state you were in on which days, for the Days in Each State report, and checks off national parks and counties if you have those packs. Your location is processed on your iPhone and never sent to us. Turn it off any time in the app's settings or in iOS Settings.
 
 ## iCloud
 
@@ -33,7 +33,7 @@ If you turn on iCloud sync, the app copies the data above to **your** private iC
 
 If you add photos to a visit, the app saves a copy of the photos you pick.
 
-If you use **Import from Photos** (Map Tracker Pro), the app asks for access to your photo library and reads only where and when each photo was taken, to find the states, cities and parks you've visited. You review what was found before anything is added. Photos themselves are never copied or uploaded.
+If you use **Import from Photos** (Statemark Pro), the app asks for access to your photo library and reads only where and when each photo was taken, to find the states, cities and parks you've visited. You review what was found before anything is added. Photos themselves are never copied or uploaded.
 
 ## Exports and backups
 
@@ -45,7 +45,7 @@ The app does not track you, contains no advertising, and uses no third-party ana
 
 ## Purchases
 
-Map Tracker Pro and the National Parks and Counties packs are one-time purchases made through Apple's App Store. Apple handles the payment; we never see your payment details. The app checks your purchase with the App Store only to unlock features.
+Statemark Pro and the National Parks and Counties packs are one-time purchases made through Apple's App Store. Apple handles the payment; we never see your payment details. The app checks your purchase with the App Store only to unlock features.
 
 ## Deleting your data
 
@@ -54,7 +54,7 @@ Map Tracker Pro and the National Parks and Counties packs are one-time purchases
 
 ## Children
 
-Map Tracker is not directed at children under 13 and does not knowingly collect information from them.
+Statemark is not directed at children under 13 and does not knowingly collect information from them.
 
 ## Changes
 

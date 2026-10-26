@@ -33,5 +33,5 @@ nav{{font-size:14px;color:var(--muted);margin-bottom:24px}}nav a{{margin-right:1
 <nav><a href="index.html">Support</a><a href="privacy.html">Privacy policy</a></nav>
 {body}
 </main></body></html>'''
-open('index.html','w').write(md2html(open('support.md').read(),'Map Tracker — Support'))
-open('privacy.html','w').write(md2html(open('privacy.md').read(),'Map Tracker — Privacy Policy'))
+open('index.html','w').write(md2html(open('support.md').read(),'Statemark — Support'))
+open('privacy.html','w').write(md2html(open('privacy.md').read(),'Statemark — Privacy Policy'))
